@@ -1,0 +1,34 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/Gryphons/Subspecies/Mountain/Gryphon_Character_BP.Gryphon_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
+    },
+    {
+      "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP.DeinosuchusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
+    },
+    {
+      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Character_BP.XiphactinusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
+    },
+    {
+      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AADeinotherium/Dinos/DeinotheriumAA_Character_BP.DeinotheriumAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
+    }
+  ]
+}
+
+"Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'"
