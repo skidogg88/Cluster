@@ -32,6 +32,10 @@
       "fromClass": "/Gryphons/Subspecies/Mountain/Gryphon_Character_BP.Gryphon_Character_BP'",
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
     }
+    {
+      "fromClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP'",
+      "toClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
+    }
   ]
 }
 
